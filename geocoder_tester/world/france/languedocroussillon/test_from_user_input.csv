@@ -5,3 +5,4 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 " 13 avenue d'alsace 30100, alès",,,4,,,Avenue d'Alsace,Alès,
  10 av du professeur grasset montpellier location,,,4,,10,Avenue du Professeur Grasset,Montpellier,
 " 109 place de thessalie, 34000 montpellier",,,4,,109,Place De Thessalie,Montpellier,
+"404 rue saint exupéry, mauguio,,,4,,404,Rue Antoine de Saint-Exupéry,Mauguio,
